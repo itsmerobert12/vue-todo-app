@@ -1,5 +1,6 @@
 Live Preview: https://taskappvue.netlify.app/
-<img width="1440" alt="Screen Shot 2022-08-09 at 10 03 10 PM" src="https://user-images.githubusercontent.com/89558709/183801352-967fb5d1-67af-4989-839f-99e6354a68dd.png">
+<img width="1440" alt="Screen Shot 2022-08-09 at 10 19 50 PM" src="https://user-images.githubusercontent.com/89558709/183803807-157992e3-9a4e-457b-bafd-a044b26ad24e.png">
+
 
 
 # todo
